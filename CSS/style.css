@@ -1,0 +1,27 @@
+body{
+    background-color: #BF471B;
+}
+
+h1{
+    color: #F2E5A2;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+img{
+    height: auto;
+    width: 800px;
+    display: block;
+    margin: auto;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+    font-size: 30px;
+}
+
+a{
+    color: #F2E5A2;
+}
